@@ -1,4 +1,5 @@
 # egpaf
+Import this using Netbeans to see the skeleton.
 
 This is the algorithm: 
 Create List of third differences are below: 

@@ -39,6 +39,13 @@ public class Question1 {
         return thirdArray;
     }
    
+    public static void createSecondArray(int x){
+        
+    }
+    
+    public static void XArray(int x){
+        
+    }
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner scanner = new Scanner(System.in);
